@@ -1,11 +1,9 @@
 .homePage{
     display: grid;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 1fr 1fr;
     padding: 40px;
 }
-.homePage div img{
-    width: 700px;
-}
+
 .homePageHeader{
     color: blue;
     font-size: 3.5rem;

@@ -1,0 +1,16 @@
+.homePage{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    padding: 40px;
+}
+.homePage div img{
+    width: 700px;
+}
+.homePageHeader{
+    color: blue;
+    font-size: 3.5rem;
+    font-weight: 900;
+}
+.homePageText{
+    font-size: 1.3rem;
+}

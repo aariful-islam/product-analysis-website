@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Mark",
+        "id": 1,
+        "comment": "I used this canera last 5 months and I fell this is the best camera for vlogging.",
+        "rating": 5,
+        "img": "images/person-1.jpg"
+    },
+    {
+        "name": "James",
+        "id": 2,
+        "comment": "This is not the best but affordable for all.",
+        "rating": 4.5,
+        "img":"images/person-2.jpg"
+    },
+    {
+        "name": "kane",
+        "id": 3,
+        "comment": "best in budget.",
+        "rating": 5,
+        "img":"images/person-3.jpg"
+    },
+    {
+        "name": "Nickolas",
+        "id": 4,
+        "comment": "I love this camera and this is my main gear for vlogging.",
+        "rating": 5,
+        "img":"images/person-4.jpg"
+    },
+    {
+        "name": "Otamendi",
+        "id": 5,
+        "comment": "I was searching for a vlogging camera on low budget and get this awsome camera within my budget. ",
+        "rating": 5,
+        "img":"images/person-5.jpg"
+    },
+    {
+        "name": "Ben",
+        "id": 6,
+        "comment": "Awww this camera is just amazing",
+        "rating": 5,
+        "img":"images/person-6.jpg"
+    }
+]

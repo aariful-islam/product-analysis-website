@@ -39,7 +39,7 @@ const Home = (props) => {
         </div>
        
         <div className='btn mx-auto'>
-        <Link to="/reviews">See more</Link>
+        <Link to="/reviews">See all review</Link>
 
         </div>
         

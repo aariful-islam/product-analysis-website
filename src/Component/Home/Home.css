@@ -1,6 +1,5 @@
 .homePage{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    
     padding: 40px;
 }
 
@@ -11,4 +10,13 @@
 }
 .homePageText{
     font-size: 1.3rem;
+}
+.btn{
+    
+    width: 300px;
+    text-align: center;
+    font-size: 3rem;
+    border: 2px solid black;
+
+   
 }

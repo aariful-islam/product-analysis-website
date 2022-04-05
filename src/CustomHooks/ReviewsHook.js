@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 
-const ShowReview=()=>{
+const ReviewHook=()=>{
     const [reviews,setReviews]=useState([])
     useEffect( ()=>{
         fetch('reviews.json')
@@ -11,4 +11,4 @@ const ShowReview=()=>{
     },[])
     return [reviews,setReviews]
 }
-export default ShowReview;
+export default ReviewHook;

@@ -42,9 +42,10 @@ const Dashboard = () => {
         }
     ]
     return (
-        <div className='charts mt-8'>
+        <div className='grid lg:grid-cols-2 sm:grid-cols-1'>
             <div>
                 <h1 className='text-3xl text-center font-bold'>Investment vs Revenue</h1>
+                
                 <AreaChart className='m-5' width={650}
                     height={400}
                     data={data}>

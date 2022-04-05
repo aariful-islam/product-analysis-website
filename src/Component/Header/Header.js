@@ -12,7 +12,7 @@ const Header = () => {
             {open ? <XIcon></XIcon> : <MenuIcon></MenuIcon>}
 
             </div>
-            <nav className={`md:flex lg:flex lg:text-3xl md:text-3xl  justify-around absolute md:static bg-indigo-200 w-full duration-500 ease-in ${open ? 'top-6': 'top-[-120px]'}`}>
+            <nav className={`p-3 md:flex lg:flex lg:text-3xl md:text-3xl  justify-around absolute md:static bg-indigo-200 w-full duration-500 ease-in ${open ? 'top-6': 'top-[-120px]'}`}>
 
                 <CustomLink to="/">HOME</CustomLink>
                 <CustomLink to="/reviews">REVIEWS</CustomLink>
